@@ -5,7 +5,7 @@ onready var Dialogue = get_node("/root/Game/UI/Dialogue")
 var dialogue = [
 	"Welcome to the game! (Press E to continue)"
 	, "Your life depends on your speed and accuracy."
-	, "Shoot the 5 targets and defeat the drone before you run out of time!"
+	, "Shoot the 5 targets and then defeat the drone before you run out of time!"
 	, "The challenge starts as soon as you press E!"
 ]
 
